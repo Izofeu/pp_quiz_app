@@ -1,8 +1,8 @@
 Najbezpieczniejszy srodek transportu to...
-Samolot
++Samolot
 Samochod
 Pociag
-+Tramwaj
+Tramwaj
 Najzdrowszy napoj to...
 Cola
 Sprite
