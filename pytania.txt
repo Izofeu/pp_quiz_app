@@ -1,0 +1,25 @@
+Najbezpieczniejszy srodek transportu to...
+Samolot
+Samochod
+Pociag
++Tramwaj
+Najzdrowszy napoj to...
+Cola
+Sprite
++Woda mineralna
+Woda zrodlana
+Restauracja, gdzie mozemy zamowic swiezego kurczaka w kubelku to...
+McDonalds
++KFC
+Burger King
+Subway
+Najpopularniejszy dyskont w Polsce to...
+Polo market
++Biedronka
+Carrefour
+Kaufland
+Aby przypisac cudzyslow (") do zmiennej char, co musimy zamiescic po "char nazwa = " (nie liczac srednika)?
+"
+\"
++'\"'
+'"'
